@@ -1,2 +1,2 @@
-Començando estudos em javaScript
+Começando estudos em javaScript
 BÁSICO
