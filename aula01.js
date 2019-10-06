@@ -3,6 +3,8 @@
  * 
  * javaScript é uma linguagem de tipagem dinâmica.
  * 
+ * Versão atual ECMAScript 2018.
+ * 
  * Linguagem case sensitive - diferencia letras maiúsculas de minúsculas.
  * 
  * obs.: Esse tipo de comentário geralmente é usado pra documentação.

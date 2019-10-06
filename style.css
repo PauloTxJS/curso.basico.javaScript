@@ -1,0 +1,19 @@
+/*
+Esse é um arquivo CSS - folhas de estilo em cascata.
+É uma linguagem de estilização.
+Versão atual: CSS3
+Esses são comentários em css.
+*/
+body{
+
+    margin-top:15%;
+    text-align:center;
+    background:gray;
+    color:#fff;
+    font-size:300%;
+
+}
+/*
+Usamos as medidas em porcentagem por causa do design reponsivo.
+Depois falaremos mais disso.
+*/
