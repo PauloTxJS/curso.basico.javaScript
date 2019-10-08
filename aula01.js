@@ -51,3 +51,15 @@ symbol
 
 // Escreve no documento html.
 document.write("HelloWorld"); // Chamamos esse tipo de escrita de CamelCase.
+
+
+//Mostrar no console do browser(navegador).
+console.log('HellWorld')
+
+
+//Pra saber o tipo do dado, se tratando de tipos primitivos, usamos o comando typeof
+let myName = 'Paulo';
+
+//Esse comando lhe dirá qual o tipo do dado que está na variavel
+console.log(typeof myName);
+//Lembrando que só serve pra tipos primitivos de dado.
