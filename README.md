@@ -1,2 +1,2 @@
 
-![banner](https://github.com/PauloTxJS/curso.basico.javaScript/tree/master/img)
+![banner](https://github.com/PauloTxJS/curso.basico.javaScript/blob/master/img/cursoJavaScript.png)
