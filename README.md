@@ -1,2 +1,2 @@
-Começando estudos em javaScript
-BÁSICO
+
+![banner](https://github.com/PauloTxJS/curso.basico.javaScript/tree/master/img)
